@@ -1,0 +1,328 @@
+Removed Pin From Net: NetName=NetP12_3 Pin=R15-A1
+Removed Pin From Net: NetName=NetP12_4 Pin=R15-A2
+Removed Pin From Net: NetName=NetP12_5 Pin=R15-A3
+Removed Pin From Net: NetName=NetP12_6 Pin=R15-A4
+Removed Pin From Net: NetName=NetP12_7 Pin=R15-A5
+Removed Pin From Net: NetName=NetP12_8 Pin=R15-A6
+Removed Pin From Net: NetName=NetP12_9 Pin=R15-A7
+Removed Pin From Net: NetName=NetP12_10 Pin=R15-A8
+Removed Pin From Net: NetName=NetC27_A1 Pin=R15-B1
+Removed Pin From Net: NetName=NetC27_A2 Pin=R15-B2
+Removed Pin From Net: NetName=NetC27_A3 Pin=R15-B3
+Removed Pin From Net: NetName=NetC27_A4 Pin=R15-B4
+Removed Pin From Net: NetName=NetC28_A1 Pin=R15-B5
+Removed Pin From Net: NetName=NetC28_A2 Pin=R15-B6
+Removed Pin From Net: NetName=NetC28_A3 Pin=R15-B7
+Removed Pin From Net: NetName=NetC28_A4 Pin=R15-B8
+Removed Pin From Net: NetName=NetP12_11 Pin=R16-A1
+Removed Pin From Net: NetName=NetP12_12 Pin=R16-A2
+Removed Pin From Net: NetName=NetP12_13 Pin=R16-A3
+Removed Pin From Net: NetName=NetP12_14 Pin=R16-A4
+Removed Pin From Net: NetName=NetP12_15 Pin=R16-A5
+Removed Pin From Net: NetName=NetP12_16 Pin=R16-A6
+Removed Pin From Net: NetName=NetP12_17 Pin=R16-A7
+Removed Pin From Net: NetName=NetP12_18 Pin=R16-A8
+Removed Pin From Net: NetName=NetC29_A1 Pin=R16-B1
+Removed Pin From Net: NetName=NetC29_A2 Pin=R16-B2
+Removed Pin From Net: NetName=NetC29_A3 Pin=R16-B3
+Removed Pin From Net: NetName=NetC29_A4 Pin=R16-B4
+Removed Pin From Net: NetName=NetC30_A1 Pin=R16-B5
+Removed Pin From Net: NetName=NetC30_A2 Pin=R16-B6
+Removed Pin From Net: NetName=NetC30_A3 Pin=R16-B7
+Removed Pin From Net: NetName=NetC30_A4 Pin=R16-B8
+Change component parameters: Designator = "C27" ("C27"); Footprint = "1206C-ARRAY"; UniqueID = "\REFKTUZU\FAVQSLMV" ("\REFKTUZU\FAVQSLMV")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "4700pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Catalog Drawings"; Value = "CKC 1206 Series CKC 1206 Series Footprint"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit Type"; Value = "Isolated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/7615/mlccspec-commercial-array-en-7615142.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/7615/mlccspec-commercial-array-en-7615142.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/7615/mlccspec-commercial-array-en-7615147.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/7615/mlccspec-commercial-array-en-7615147.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/7615/mlccspec-commercial-array-en-7615148.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/7615/mlccspec-commercial-array-en-7615148.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/24216/ckca43x7r1h472m100aa-266209-24216735.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/24216/ckca43x7r1h472m100aa-266209-24216735.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description1"; Value = "Cap Ceramic Array 0.0047uF 50V X7R 20% 1206 SMD 4 Capacitor 125C Plastic T/R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "Capacitor Arrays"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Featured Product"; Value = "CKC Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.051" (1.30mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CKCA43X7R1H472M100AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Capacitors"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Online Catalog"; Value = "CKC Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Other Names"; Value = "445-1853-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "1206 (3216 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCN Part Number"; Value = "MLCC Part Number Change 30/Nov/2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.33, 10=0.228, 100=0.129, 500=0.0911, 1000=0.0797 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Training Modules"; Value = "CKC Series Array Capacitor Family"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Information"; Value = "RoHS Certificate-MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "CKC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.126" L x 0.063" W (3.20mm x 1.60mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "155348"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "445-1853-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "°¿20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28" ("C28"); Footprint = "1206C-ARRAY"; UniqueID = "\REFKTUZU\REBUNUQY" ("\REFKTUZU\REBUNUQY")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "4700pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Catalog Drawings"; Value = "CKC 1206 Series CKC 1206 Series Footprint"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit Type"; Value = "Isolated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/7615/mlccspec-commercial-array-en-7615142.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/7615/mlccspec-commercial-array-en-7615142.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/7615/mlccspec-commercial-array-en-7615147.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/7615/mlccspec-commercial-array-en-7615147.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/7615/mlccspec-commercial-array-en-7615148.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/7615/mlccspec-commercial-array-en-7615148.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/24216/ckca43x7r1h472m100aa-266209-24216735.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/24216/ckca43x7r1h472m100aa-266209-24216735.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description1"; Value = "Cap Ceramic Array 0.0047uF 50V X7R 20% 1206 SMD 4 Capacitor 125C Plastic T/R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "Capacitor Arrays"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Featured Product"; Value = "CKC Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.051" (1.30mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CKCA43X7R1H472M100AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Capacitors"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Online Catalog"; Value = "CKC Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Other Names"; Value = "445-1853-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "1206 (3216 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCN Part Number"; Value = "MLCC Part Number Change 30/Nov/2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.33, 10=0.228, 100=0.129, 500=0.0911, 1000=0.0797 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Training Modules"; Value = "CKC Series Array Capacitor Family"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Information"; Value = "RoHS Certificate-MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "CKC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.126" L x 0.063" W (3.20mm x 1.60mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "155348"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "445-1853-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "°¿20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29" ("C29"); Footprint = "1206C-ARRAY"; UniqueID = "\REFKTUZU\VNRSCQHX" ("\REFKTUZU\VNRSCQHX")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "4700pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Catalog Drawings"; Value = "CKC 1206 Series CKC 1206 Series Footprint"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit Type"; Value = "Isolated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/7615/mlccspec-commercial-array-en-7615142.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/7615/mlccspec-commercial-array-en-7615142.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/7615/mlccspec-commercial-array-en-7615147.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/7615/mlccspec-commercial-array-en-7615147.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/7615/mlccspec-commercial-array-en-7615148.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/7615/mlccspec-commercial-array-en-7615148.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/24216/ckca43x7r1h472m100aa-266209-24216735.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/24216/ckca43x7r1h472m100aa-266209-24216735.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description1"; Value = "Cap Ceramic Array 0.0047uF 50V X7R 20% 1206 SMD 4 Capacitor 125C Plastic T/R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "Capacitor Arrays"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Featured Product"; Value = "CKC Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.051" (1.30mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CKCA43X7R1H472M100AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Capacitors"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Online Catalog"; Value = "CKC Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Other Names"; Value = "445-1853-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "1206 (3216 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCN Part Number"; Value = "MLCC Part Number Change 30/Nov/2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.33, 10=0.228, 100=0.129, 500=0.0911, 1000=0.0797 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Training Modules"; Value = "CKC Series Array Capacitor Family"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Information"; Value = "RoHS Certificate-MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "CKC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.126" L x 0.063" W (3.20mm x 1.60mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "155348"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "445-1853-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "°¿20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30" ("C30"); Footprint = "1206C-ARRAY"; UniqueID = "\REFKTUZU\EHBGEVRQ" ("\REFKTUZU\EHBGEVRQ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "4700pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Catalog Drawings"; Value = "CKC 1206 Series CKC 1206 Series Footprint"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit Type"; Value = "Isolated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/7615/mlccspec-commercial-array-en-7615142.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/7615/mlccspec-commercial-array-en-7615142.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/7615/mlccspec-commercial-array-en-7615147.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/7615/mlccspec-commercial-array-en-7615147.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/7615/mlccspec-commercial-array-en-7615148.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/7615/mlccspec-commercial-array-en-7615148.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/24216/ckca43x7r1h472m100aa-266209-24216735.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/24216/ckca43x7r1h472m100aa-266209-24216735.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description1"; Value = "Cap Ceramic Array 0.0047uF 50V X7R 20% 1206 SMD 4 Capacitor 125C Plastic T/R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "Capacitor Arrays"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Featured Product"; Value = "CKC Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.051" (1.30mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CKCA43X7R1H472M100AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Capacitors"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Online Catalog"; Value = "CKC Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Other Names"; Value = "445-1853-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "1206 (3216 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCN Part Number"; Value = "MLCC Part Number Change 30/Nov/2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.33, 10=0.228, 100=0.129, 500=0.0911, 1000=0.0797 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Training Modules"; Value = "CKC Series Array Capacitor Family"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Information"; Value = "RoHS Certificate-MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "CKC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.126" L x 0.063" W (3.20mm x 1.60mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "155348"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "445-1853-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "°¿20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "0603"; UniqueID = "\REFKTUZU\IUQNSMBU" ("\REFKTUZU\IUQNSMBU")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/48531/aoa0000ce1-48531077.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/48531/aoa0000ce1-48531077.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/16783/70260739-16783734.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16783/70260739-16783734.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/11821/0900766b80f806dd-11821176.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/11821/0900766b80f806dd-11821176.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/17215/aoa0000ce1-17215386.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/17215/aoa0000ce1-17215386.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/43460/1678796-43460347.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/43460/1678796-43460347.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/5959/1678796-5959692.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/5959/1678796-5959692.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/30097/4aoa0000ce1-30097116.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/30097/4aoa0000ce1-30097116.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.ciiva.com/28695/1678796-28695758.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.ciiva.com/28695/1678796-28695758.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.ciiva.com/46389/1678796-46389518.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.ciiva.com/46389/1678796-46389518.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.ciiva.com/16778/70260739-16778335.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.ciiva.com/16778/70260739-16778335.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description1"; Value = "Res Thick Film 0402 0 Ohm Molded SMD Automotive T/R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EDA / CAD Models"; Value = "Download from Accelerated Designs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "Chip Resistor - Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.016" (0.40mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-2GE0R00X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Online Catalog"; Value = "ERJ Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°„C ~ 155°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Other Names"; Value = "P0.0JDKR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Digi-Reel?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.037, 25=0.0268, 50=0.0204, 100=0.015, 250=0.0114, 500=0.0091, 1000=0.0067, 5000=0.0048 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Ohms)"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "31263960"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P0.0JCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "0603"; UniqueID = "\REFKTUZU\JIULJRBZ" ("\REFKTUZU\JIULJRBZ")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/48531/aoa0000ce1-48531077.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/48531/aoa0000ce1-48531077.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/16783/70260739-16783734.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16783/70260739-16783734.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/11821/0900766b80f806dd-11821176.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/11821/0900766b80f806dd-11821176.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/17215/aoa0000ce1-17215386.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/17215/aoa0000ce1-17215386.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/43460/1678796-43460347.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/43460/1678796-43460347.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/5959/1678796-5959692.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/5959/1678796-5959692.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/30097/4aoa0000ce1-30097116.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/30097/4aoa0000ce1-30097116.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.ciiva.com/28695/1678796-28695758.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.ciiva.com/28695/1678796-28695758.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.ciiva.com/46389/1678796-46389518.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.ciiva.com/46389/1678796-46389518.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.ciiva.com/16778/70260739-16778335.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.ciiva.com/16778/70260739-16778335.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description1"; Value = "Res Thick Film 0402 0 Ohm Molded SMD Automotive T/R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EDA / CAD Models"; Value = "Download from Accelerated Designs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "Chip Resistor - Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.016" (0.40mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-2GE0R00X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Online Catalog"; Value = "ERJ Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°„C ~ 155°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Other Names"; Value = "P0.0JDKR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Digi-Reel?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.037, 25=0.0268, 50=0.0204, 100=0.015, 250=0.0114, 500=0.0091, 1000=0.0067, 5000=0.0048 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Ohms)"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "31263960"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P0.0JCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL
+Add Component: Footprint Not Found RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL
+Add Component: Footprint Not Found RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL
+Add Component: Footprint Not Found RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 1-1
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 1-2
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 1-3
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 1-4
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 1-5
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 1-6
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 1-7
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 1-8
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 2-1
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 2-2
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 2-3
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 2-4
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 2-5
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 2-6
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 2-7
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 2-8
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 3-1
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 3-2
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 3-3
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 3-4
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 3-5
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 3-6
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 3-7
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 3-8
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 4-1
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 4-2
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 4-3
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 4-4
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 4-5
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 4-6
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 4-7
+Add Pin To Net: Unknown Pin: Pin RES ARRAY 4-8

@@ -1,0 +1,144 @@
+Removed Pin From Net: NetName=NetP12_3 Pin=R15-A1
+Removed Pin From Net: NetName=NetP12_4 Pin=R15-A2
+Removed Pin From Net: NetName=NetP12_5 Pin=R15-A3
+Removed Pin From Net: NetName=NetP12_6 Pin=R15-A4
+Removed Pin From Net: NetName=NetP12_7 Pin=R15-A5
+Removed Pin From Net: NetName=NetP12_8 Pin=R15-A6
+Removed Pin From Net: NetName=NetP12_9 Pin=R15-A7
+Removed Pin From Net: NetName=NetP12_10 Pin=R15-A8
+Removed Pin From Net: NetName=NetC27_A1 Pin=R15-B1
+Removed Pin From Net: NetName=NetC27_A2 Pin=R15-B2
+Removed Pin From Net: NetName=NetC27_A3 Pin=R15-B3
+Removed Pin From Net: NetName=NetC27_A4 Pin=R15-B4
+Removed Pin From Net: NetName=NetC28_A1 Pin=R15-B5
+Removed Pin From Net: NetName=NetC28_A2 Pin=R15-B6
+Removed Pin From Net: NetName=NetC28_A3 Pin=R15-B7
+Removed Pin From Net: NetName=NetC28_A4 Pin=R15-B8
+Removed Pin From Net: NetName=NetP12_11 Pin=R16-A1
+Removed Pin From Net: NetName=NetP12_12 Pin=R16-A2
+Removed Pin From Net: NetName=NetP12_13 Pin=R16-A3
+Removed Pin From Net: NetName=NetP12_14 Pin=R16-A4
+Removed Pin From Net: NetName=NetP12_15 Pin=R16-A5
+Removed Pin From Net: NetName=NetP12_16 Pin=R16-A6
+Removed Pin From Net: NetName=NetP12_17 Pin=R16-A7
+Removed Pin From Net: NetName=NetP12_18 Pin=R16-A8
+Removed Pin From Net: NetName=NetC29_A1 Pin=R16-B1
+Removed Pin From Net: NetName=NetC29_A2 Pin=R16-B2
+Removed Pin From Net: NetName=NetC29_A3 Pin=R16-B3
+Removed Pin From Net: NetName=NetC29_A4 Pin=R16-B4
+Removed Pin From Net: NetName=NetC30_A1 Pin=R16-B5
+Removed Pin From Net: NetName=NetC30_A2 Pin=R16-B6
+Removed Pin From Net: NetName=NetC30_A3 Pin=R16-B7
+Removed Pin From Net: NetName=NetC30_A4 Pin=R16-B8
+Added Component: Designator=RES ARRAY 1(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20191224/C474318_2527498AE30E813171187CCD28401A71.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGF4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "4.7k次 ㊣1% 0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(綠汒)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGF4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "4.7k次"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C66697"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGF4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "㊣200ppm/⊥"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "㊣1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k次"; VariantName = "[No Variations]"
+Added Component: Designator=RES ARRAY 2(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20191224/C474318_2527498AE30E813171187CCD28401A71.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGF4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "4.7k次 ㊣1% 0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(綠汒)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGF4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "4.7k次"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C66697"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGF4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "㊣200ppm/⊥"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "㊣1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k次"; VariantName = "[No Variations]"
+Added Component: Designator=RES ARRAY 3(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20191224/C474318_2527498AE30E813171187CCD28401A71.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGF4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "4.7k次 ㊣1% 0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(綠汒)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGF4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "4.7k次"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C66697"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGF4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "㊣200ppm/⊥"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "㊣1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k次"; VariantName = "[No Variations]"
+Added Component: Designator=RES ARRAY 4(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20191224/C474318_2527498AE30E813171187CCD28401A71.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGF4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "4.7k次 ㊣1% 0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(綠汒)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGF4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "4.7k次"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C66697"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGF4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "㊣200ppm/⊥"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "㊣1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k次"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP12_3 Pin=RES ARRAY 1-1
+Added Pin To Net: NetName=NetP12_4 Pin=RES ARRAY 1-2
+Added Pin To Net: NetName=NetP12_5 Pin=RES ARRAY 1-3
+Added Pin To Net: NetName=NetP12_6 Pin=RES ARRAY 1-4
+Added Pin To Net: NetName=NetC27_A4 Pin=RES ARRAY 1-5
+Added Pin To Net: NetName=NetC27_A3 Pin=RES ARRAY 1-6
+Added Pin To Net: NetName=NetC27_A2 Pin=RES ARRAY 1-7
+Added Pin To Net: NetName=NetC27_A1 Pin=RES ARRAY 1-8
+Added Pin To Net: NetName=NetP12_7 Pin=RES ARRAY 2-1
+Added Pin To Net: NetName=NetP12_8 Pin=RES ARRAY 2-2
+Added Pin To Net: NetName=NetP12_9 Pin=RES ARRAY 2-3
+Added Pin To Net: NetName=NetP12_10 Pin=RES ARRAY 2-4
+Added Pin To Net: NetName=NetC28_A4 Pin=RES ARRAY 2-5
+Added Pin To Net: NetName=NetC28_A3 Pin=RES ARRAY 2-6
+Added Pin To Net: NetName=NetC28_A2 Pin=RES ARRAY 2-7
+Added Pin To Net: NetName=NetC28_A1 Pin=RES ARRAY 2-8
+Added Pin To Net: NetName=NetP12_11 Pin=RES ARRAY 3-1
+Added Pin To Net: NetName=NetP12_12 Pin=RES ARRAY 3-2
+Added Pin To Net: NetName=NetP12_13 Pin=RES ARRAY 3-3
+Added Pin To Net: NetName=NetP12_14 Pin=RES ARRAY 3-4
+Added Pin To Net: NetName=NetC29_A4 Pin=RES ARRAY 3-5
+Added Pin To Net: NetName=NetC29_A3 Pin=RES ARRAY 3-6
+Added Pin To Net: NetName=NetC29_A2 Pin=RES ARRAY 3-7
+Added Pin To Net: NetName=NetC29_A1 Pin=RES ARRAY 3-8
+Added Pin To Net: NetName=NetP12_15 Pin=RES ARRAY 4-1
+Added Pin To Net: NetName=NetP12_16 Pin=RES ARRAY 4-2
+Added Pin To Net: NetName=NetP12_17 Pin=RES ARRAY 4-3
+Added Pin To Net: NetName=NetP12_18 Pin=RES ARRAY 4-4
+Added Pin To Net: NetName=NetC30_A4 Pin=RES ARRAY 4-5
+Added Pin To Net: NetName=NetC30_A3 Pin=RES ARRAY 4-6
+Added Pin To Net: NetName=NetC30_A2 Pin=RES ARRAY 4-7
+Added Pin To Net: NetName=NetC30_A1 Pin=RES ARRAY 4-8
